@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @busegoc
+- 👋 Hi, I’m Buse
 - 👀 I’m interested in web development
 - 👩‍💻 I’m currently learning javascript, asp.net and c#
 - 🌱 I’m addicted to learning and growing every day
