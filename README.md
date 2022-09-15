@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Buse
 - 👀 I’m interested in web development
-- 👩‍💻 I’m currently learning more about javaScript and React.js
+- 👩‍💻 I’m currently learning more about javaScript and React.js and i enjoy working with HTML, CSS and similar technologies.
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me:
 
