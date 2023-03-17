@@ -4,7 +4,6 @@
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me:
 
-   ◾ [Instagram](https://www.instagram.com/buseeegoc/)
    
    ◾ [Linkedin](https://www.linkedin.com/in/buse-g%C3%B6%C3%A7-8969841bb/)
 
