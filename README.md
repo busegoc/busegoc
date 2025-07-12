@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Buse
 - 👀 I’m interested in Front End Development
-- 👩‍💻 I’m currently learning more about JavaScript and React.js and i enjoy working with HTML, CSS and similar technologies.
+- 👩‍💻 I’m currently learning **C# and .NET** to become a **Full-Stack Developer**. By combining my front-end skills with back-end technologies, I aim to broaden my expertise and reach my career      goals.
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me:
 
